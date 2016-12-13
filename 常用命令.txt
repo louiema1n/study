@@ -1,0 +1,2 @@
+wsimport 命令生成客户端代码
+	wsimport -s . http://localhost:18659/weather?wsdl
