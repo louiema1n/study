@@ -1,2 +1,3 @@
 wsimport 命令生成客户端代码
 	wsimport -s . http://localhost:18659/weather?wsdl
+	wsimport -s . file:///C:\Users\ly\Desktop\WeatherWS.asmx.xml(本地)
