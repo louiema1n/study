@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="webservice_ws6_cxf_rest_spring_server"
+  id="myeclipse.1481706012571"
+  context-root="/webservice_ws6_cxf_rest_spring_server"
+  j2ee-spec="5.0"
+  archive="webservice_ws6_cxf_rest_spring_server.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
