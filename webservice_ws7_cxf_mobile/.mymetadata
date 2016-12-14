@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="webservice_ws7_cxf_mobile"
+  id="myeclipse.1481709057470"
+  context-root="/webservice_ws7_cxf_mobile"
+  j2ee-spec="5.0"
+  archive="webservice_ws7_cxf_mobile.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
